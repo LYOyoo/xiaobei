@@ -19,7 +19,7 @@
 ![](https://i.loli.net/2021/02/05/VOHl12sNArmLh8u.png)
 
 ## 二、设置账号密码
-asd
+##asdf
 * 添加名为**XIAOBEI_USERNAME**、**XIAOBEI_PASSWORD**、**XIAOBEI_SCKEY**的变量  
 * 值分别为**账号**、**密码**、**qmsg酱KEY值**（qmsg酱KEY值请看最上端说明）  
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
